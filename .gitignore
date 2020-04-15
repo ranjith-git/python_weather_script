@@ -3,4 +3,5 @@
 .pyc
 *.log
 temp.txt
+city.list.json/
 
