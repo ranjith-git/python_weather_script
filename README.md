@@ -1,6 +1,7 @@
 # python_weather_script
 api used:https://openweathermap.org/api
 api doc:https://openweathermap.org/current
+List of city ID city.list.json.gz can be downloaded here http://bulk.openweathermap.org/sample/
 
 Access current weather data for any location on Earth including over 200,000 cities!
 Current weather is frequently updated based on global models and data from more than 40,000 weather stations. Data is available in JSON, XML, or HTML format.-->https://openweathermap.org/
