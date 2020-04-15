@@ -9,7 +9,7 @@ Current weather is frequently updated based on global models and data from more 
 
 #by_country.py
 -->
-#input: Country: no or norway(lower-case)
+#input: Country: no or norway (lower-case)
 
 latitude: 60.472024,longitude: 8.468946, country_code: NO, country_name: Norway
 Timezone: Europe/Oslo
