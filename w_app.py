@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 from urllib.request import urlopen
 import json
 import datetime as dt
@@ -60,4 +58,3 @@ print(f"Wind: {read_json['current']['wind_speed']} m/s")
 print(
     f"Weather: {read_json['current']['weather'][0]['main']}({read_json['current']['weather'][0]['description']})"
 )
->>>>>>> lat_log
