@@ -5,3 +5,7 @@ venv/
 *.log
 city.list.json/
 settings.json
+*.log
+temp.txt
+city.list.json/
+
