@@ -9,30 +9,30 @@ Current weather is frequently updated based on global models and data from more 
 
 #by_country.py
 -->
-#input: Country: hk or hong kong(lower-case)
+#input: Country: no or norway(lower-case)
 
-latitude: 22.396428,longitude: 114.109497, country_code: HK, country_name: Hong Kong
-Timezone: Asia/Hong_Kong
-Current Time: Apr 15, 2020 15:03:34 HKT
-Sunrise Time: 03:33:20
-Sunset Time: 16:13:23
-Temperature: 24.58°C
-Clouds: 20%, 1014 hPa
-Humidity: 50%
-Wind: 4.6 m/s
-Weather: Clouds(few clouds)
+latitude: 60.472024,longitude: 8.468946, country_code: NO, country_name: Norway
+Timezone: Europe/Oslo
+Current Time: Apr 15, 2020 09:42:03 CEST
+Sunrise Time: 09:36:40
+Sunset Time: 00:15:02
+Temperature: 4.14°C
+Clouds: 2%, 1001 hPa
+Humidity: 92%
+Wind: 16.99 m/s
+Weather: Clear(clear sky)
 <--
 
 #by_city.py
 -->
-#input: City: hong kong
+#input: City: bergen
 
-longitude: 114.16, latitude: 22.29, country: HK
-Sunrise Time: 03:33:14
-Sunset Time: 16:13:05
-Temperature: 24.46°C
-Clouds: 20%, 1014 hPa
-Humidity: 50%
-Wind: 4.6 m/s
-Weather: Clouds(few clouds)
+longitude: 5.33, latitude: 60.39, country: NO
+Sunrise Time: 09:49:28
+Sunset Time: 00:27:21
+Temperature: 6.98°C
+Clouds: 90%, 1012 hPa
+Humidity: 100%
+Wind: 10.3 m/s
+Weather: Drizzle(light intensity drizzle)
 <--
